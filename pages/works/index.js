@@ -1,8 +1,10 @@
+import Section from "../../components/section";
+
 const Page = () => {
-    return (
-        <div>
-            <h1>Works page</h1>
-        </div>
-    );
+  return (
+    <Section>
+      <h1>Works page</h1>
+    </Section>
+  );
 };
 export default Page;
