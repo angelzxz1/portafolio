@@ -10,6 +10,11 @@ const Main = ({ children, router }) => {
                     name="viewport"
                     content="initial-scale=1.0, width=device-width"
                 />
+                <link
+                    rel="shortcut icon"
+                    href="/favicon.ico"
+                    type="image/x-icon"
+                />
                 <title>Angel Zuñiga - Homepage</title>
             </Head>
             <NavBar path={router.asPath} />
