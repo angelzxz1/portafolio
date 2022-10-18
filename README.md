@@ -1,4 +1,11 @@
 # 💫 About Me:
+Hi! I'm MAGEN!
+...
+Actually my name is Angel Zuñiga, MAGEN it's my... lets say alter-ego, or nickname if you prefer.
+
+You might wonder who am I or what do I do, the answer it's quite simple, I'm a full stack web developer based in barranquilla, Colombia.
+Down below you'll see what I do, what I know and what I want to archieve.
+
 🔭 I’m currently working on a drinking and party game web app.<br>🌱 I’m currently learning machine learning and big data.<br>💬 Ask me about anything you want to build and I'll help you to realize it.<br>⚡ Fun fact, everybody say I look more like a musician.
 
 
