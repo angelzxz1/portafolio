@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=angelzxz1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](aber)
 
 ### 😂 Fav memes 
 <img src="/public/reddit.jpg" width="512px"/>
