@@ -15,12 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angelzxz1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![Aber]
-
 ### 😂 Fav memes 
 <img src="/public/reddit.jpg" width="512px"/>
 <img src="/public/shame.jpg" width="512px"/>
+<button>holi</button>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=angelzxz1&icon=2&color=9)](https://visitcount.itsvg.in)
