@@ -18,8 +18,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Fav mem
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 😂 Fav memes 
+<img src="/public/reddit.jpg" width="512px"/>
+<img src="/public/shame.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=angelzxz1&icon=2&color=9)](https://visitcount.itsvg.in)
